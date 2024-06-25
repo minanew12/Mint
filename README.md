@@ -7,11 +7,6 @@
 
 A package manager that installs and runs Swift command line tool packages.
 
-```sh
-mint run realm/SwiftLint@0.40.3
-```
-This would install and run [SwiftLint](https://github.com/realm/SwiftLint) version 0.40.3
-
 Mint is designed to be used with Swift command line tools that build with the Swift Package Manager. It makes installing, running and distributing these tools much easier.
 
 - ✅ easily run a specific **version** of a package
